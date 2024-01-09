@@ -1,7 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;900&family=Nunito:wght@400;700&display=swap');
+/*
+
+Palette
+
+primary-background: #7EDDD3
+secondary-background: #EFDAB9
+primary-text: #001F3F
+secondary-text: #4CB8B0
+accent: #FF6F61
+link: #FFD700
+primary-button: #4CAF50
+hover: #388E3C
+CTA: #FFF5E1
+border: #D2B48C
+
+ */
+
 /* TODO Add site wide styles */
 * {
     margin: 0;
-    background-color: lightblue;
+    background-color: #7EDDD3;
+    font-family: 'Nunito';
+    color: #001F3F;
 }
 
 .container {
@@ -11,3 +31,5 @@
     justify-content: center;
     align-items: center;
 }
+
+

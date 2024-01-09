@@ -7,9 +7,19 @@
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 4em;
+    font-family: 'Figtree';
+    text-transform: uppercase;
 }
 
 h2 {
     font-size: 30px;
+    font-weight: 400;
+}
+
+.accent {
+    color: #FF6F61;
+    font-weight: 700;
+    /* font-style: italic; */
+    text-transform: uppercase;
 }
