@@ -28,8 +28,7 @@ border: #D2B48C
     height: 100vh;
     /* background-color: lightblue; */
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-
-

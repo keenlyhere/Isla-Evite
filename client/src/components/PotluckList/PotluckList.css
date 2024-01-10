@@ -1,0 +1,17 @@
+.potluck-container {
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    /* padding: 3rem; */
+}
+
+.potluck-header, .potluck-data {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.potluck-header > p {
+    color: #FF6F61;
+    font-weight: 600;
+}

@@ -1,3 +1,33 @@
 .rsvp {
     padding: 8rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    background-color:#FFF5E1;
+    padding: 3rem;
+    margin: 3rem;
+    border-radius: 18px;
+    width: 50%;
+    align-self: center;
+    gap: 12px;
+}
+
+label, input {
+    background-color: #FFF5E1;
+}
+
+input {
+    border: 1px solid #D2B48C;
+    padding: 8px 16px;
+}
+
+.form-button {
+    background-color: #4CAF50;
+    padding: 1rem;
+    border-radius: 1rem;
+    border: none;
 }
