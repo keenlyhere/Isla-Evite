@@ -19,9 +19,13 @@ border: #D2B48C
 /* TODO Add site wide styles */
 * {
     margin: 0;
-    background-color: #7EDDD3;
     font-family: 'Nunito';
     color: #001F3F;
+}
+
+body {
+    background-color: #7EDDD3;
+    font-size: 20px;
 }
 
 .container {
